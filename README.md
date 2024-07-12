@@ -71,6 +71,11 @@ Para iniciar o aplicativo Streamlit, execute o seguinte comando no terminal:
 ```bash
 
 streamlit run app.py
+```
+
+## Estrutura do Projeto
+
+```bash
 Intelig-ncia-Artificial-Particular/
 ├── app.py
 ├── requirements.txt
