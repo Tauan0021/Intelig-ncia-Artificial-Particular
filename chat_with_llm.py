@@ -4,6 +4,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_groq import ChatGroq
 from dotenv import load_dotenv, find_dotenv
 import openai
+import deepseek
 import os
 import json
 
