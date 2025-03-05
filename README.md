@@ -34,6 +34,7 @@ TMF - Artificial Intelligence é um aplicativo web de conversação AI, alimenta
     langchain-groq
     python-dotenv
     openai
+    deepseek
     ```
 
 ## Instalação
